@@ -7,7 +7,7 @@ API implementation
 3. Unzip dict.zip and replace folder in Dictionaries (For some reason the file gets corrupted when pulled through github)
 4. Run Launcher.java
 
-##### Google Static Maps API
+#### Google Static Maps API
 Embeds images into the conversation. Used it to display images of where the company is located(can view the country, city, and specifc location).
 
-##### Google Translate API
+#### Google Translate API
