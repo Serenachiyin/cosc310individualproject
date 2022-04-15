@@ -34,7 +34,7 @@ A new Transator method is created and it is called in Chatbot. The user can type
     * Handles analysing user input for sentiment when required
 * Testing
     * Unit tests
-#### Assignment 3 new features
+#### Assignment 3 features
 * Created GUI for better user experience
 * Added extra topic to agent (Now can answer questions about the fictional company's games as well as troubleshoot issues)
 * Added ability for bot to propose to the user potential answer if the bot doesn't find a match in the current branch (a.k.a "Did you mean this?") - Reduces number of times that users are required to reset program
