@@ -17,7 +17,7 @@ A new Transator method is created and it is called in Chatbot. The user can type
 
 This feature is helpful when you, for example, have a grandparent who doesn't understand English, and a grandkid who can't read Chinese. The grandparent can type in their problem in Chinese, it will be translated into English, the grandkid can read it, understand it, and try to fix the problem. 
 
-This feature is also useful when people who type faster in a different language want to read the instructions in English to match with the product settings 
+This feature is also useful when people who type faster in a different language want to read the instructions in English to match with the product settings. 
 
 #### Class Structure
 * Chatbot
