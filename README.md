@@ -15,7 +15,7 @@ It is triggered by certain keywords that may show up in the customer’s questio
 #### Google Translate API
 A new Transator method is created and it is called in Chatbot. The user can type in different languages and the user's input will be translated into English. The Chatbot will respond to the user's questions and also display the translation of the user's original text.  
 
-This feature is helpful when you, for example, have a grandparent who doesn't understand English, and a grandkid who can't read Chinese. The grandparent can type in their problem, it will be translated, the grandkid can read, understand, and try to fix the problem. 
+This feature is helpful when you, for example, have a grandparent who doesn't understand English, and a grandkid who can't read Chinese. The grandparent can type in their problem in Chinese, it will be translated, the grandkid can read, understand, and try to fix the problem. 
 
 This feature is also useful when people who type faster in a different language want to read the instructions in English to match with the product settings 
 
