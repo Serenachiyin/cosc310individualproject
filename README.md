@@ -13,7 +13,7 @@ Embeds images into the conversation. Used it to display images of where the comp
 It is triggered by certain keywords that may show up in the customer’s questions. It is implemented in Chatbot.java.  
 
 #### Google Translate API
-A new Transator method is created and it is called in Chatbot. The user can type in different languages and the user's input will be translated into English. The Chatbot will respond to the user's questions and also display the translation of the user's original text.  
+A new Translator method is created and it is called in Chatbot. The user can type in different languages and the user's input will be translated into English. The Chatbot will respond to the user's questions and also display the translation of the user's original text.  
 
 This feature is helpful in situations where, for example, there is a grandparent who doesn't understand English and a grandkid who can't read Chinese. The grandparent can type in their problem in Chinese, it will be displayed in English, and the grandkid can read it, understand it, and try to fix the problem.
 
