@@ -74,3 +74,23 @@ This feature is also useful when people who type faster in a different language 
     * The GUI we made is also generalized and can take input from any program by simply changing a few parameters
     * Response objects can be extracted and used as object to store data for keyword bots
     * Modified spelling correction can be extracted as API for various functions
+--------
+### Documentation
+#### Class Structure
+* Chatbot
+    * Main method for the bot program. Once instance is created, this class handles the processing of the user input
+* GUI
+    * Creates a GUI and passes user input into the Chatbot class for processing
+* Response
+    * The "response" object
+    * Stores information of a certain response that the chatbot could provide to the user
+* Flow
+    * The "flow" object
+    * Stores information on a certain series of messages that must be entered in a specific order
+    * Takes care of situations where multiple lines of user input is needed to be stored or processed at the same time
+* Dict
+    * Handles correcting spelling of inputs
+* SentimentAnalysis
+    * Handles analysing user input for sentiment when required
+* Testing
+    * Unit tests
